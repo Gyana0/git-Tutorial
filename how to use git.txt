@@ -3,3 +3,4 @@
 # add a username : git config --global user.name "gyana"
 # add a email : git config --global user.email "gyanendramahanta8@gmail.com"
 # to see the email of git account : git config user.email
+hello
