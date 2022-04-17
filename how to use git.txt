@@ -8,5 +8,5 @@ add a email : git config --global user.email "gyanendramahanta8@gmail.com"
 to see the email of git account : git config user.email
 To see all the logs : git log
 To see what changed : git diff file name
-How to create a new branch : git checkout -b "master"
-To push changes : git push -u origin master
+How to create a new branch or change branch : git checkout -b "branch name"
+To push changes : git push -u origin <branch name>
