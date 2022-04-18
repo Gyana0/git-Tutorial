@@ -17,3 +17,5 @@ Show branches : git branch
 To see what changed : git diff file name
 How to create a new branch : git checkout -b "master"
 To push changes : git push origin master
+To delete a branch : git branch -d <branch name>
+To delete a branch from remote : git push origin --delete <branch name> 
