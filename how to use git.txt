@@ -14,3 +14,6 @@ If you are changed something and not add : git diff
 To clone git : git clone <ssh key here>
 Add git branch : git branch <branch name>
 Show branches : git branch
+To see what changed : git diff file name
+How to create a new branch : git checkout -b "master"
+To push changes : git push origin master
